@@ -1,4 +1,4 @@
-- Hi👋,I’m @arafathali M
+- Hi👋,I’m arafathali M
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Bachelor of Engineering(ECE)
 - 📫 How to reach me arafathali122333@gmail.com
