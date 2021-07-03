@@ -1,4 +1,4 @@
-# Hi, Hello Everyone ![Hi](https://user-images.githubusercontent.com/60483672/124365293-9b94e980-dc64-11eb-9711-b7c5c84c9f25.gif)
+# Hi, Hello Everyone ![Hi (2)](https://user-images.githubusercontent.com/60483672/124365366-22e25d00-dc65-11eb-83e4-9c7fbca1027b.gif)
 - I’m arafathali M
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently studying Bachelor of Engineering(ECE)
