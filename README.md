@@ -6,7 +6,7 @@
 - 💡  I like to explore new technologies and develop software solutions.
 - 🛠  In my free time,root my old phone and install suitable os in phone and laptops.
 - 🌐 I’m a Self-Learner.
-- 📫 How to reach me arafathali122333@gmail.com.
+- 📫 How to reach me arafathali122333@gmail.com & +91 9500852596.
 
 <!---
 arafathali122333/arafathali122333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
