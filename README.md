@@ -4,7 +4,7 @@
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently studying Bachelor of Engineering at National Engineering College(ECE).
 - 💡  I like to explore new technologies and develop software solutions.
-- 🛠  In my free time,root my old phone and install suitable os in phone and laptops.
+- 🛠  In my free time root my old phone, install suitable os in phone and laptops and more.
 - 🌐 I’m a Self-Learner.
 - 📫 How to reach me arafathali122333@gmail.com || +91 9500852596.
 
