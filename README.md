@@ -1,10 +1,9 @@
 # Hi, Hello Everyone ![Hi (4)](https://user-images.githubusercontent.com/60483672/124365423-840a3080-dc65-11eb-863a-c82bc5e04d38.gif)
-![04 07 2021_01 06 49_REC](https://user-images.githubusercontent.com/60483672/124365440-a69c4980-dc65-11eb-8d9d-b434b796f783.gif)
 - 👨🏻‍💻 I’m arafathali M.
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently studying Bachelor of Engineering at National Engineering College(ECE).
 - 💡  I like to explore new technologies and develop software solutions.
-- 🛠  In my free time root my old phone, install suitable os in phone and laptops and more.
+- 🛠  In my free time create new projects.
 - 🌐 I’m a Self-Learner.
 - 📫 How to reach me arafathali122333@gmail.com || +91 9500852596.
 
