@@ -1,6 +1,6 @@
 # Hi, Hello Everyone ![Hi (4)](https://user-images.githubusercontent.com/60483672/124365423-840a3080-dc65-11eb-863a-c82bc5e04d38.gif)
 - 👨🏻‍💻 I’m arafathali M.
-- 👀 I’m interested in Software Development.
+- 👀 I’m interested in making innovative projects and software development.
 - 🌱 I’m currently studying Bachelor of Engineering at National Engineering College(ECE).
 - 💡  I like to explore new technologies and develop software solutions.
 - 🛠  In my free time create new projects.
