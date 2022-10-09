@@ -2,7 +2,7 @@
 - 👨🏻‍💻 I’m Arafathali.
 - 👀 I’m interested in Making innovative projects and Software development.
 - 🌱 I Have Completed Bachelor of Engineering at National Engineering College(ECE).
-- ![download (1)](https://user-images.githubusercontent.com/60483672/194740104-459c8f49-f294-42e1-bfd2-156a44908b2d.jpg)  jjh
+- <img src="https://user-images.githubusercontent.com/60483672/194740104-459c8f49-f294-42e1-bfd2-156a44908b2d.jpg" width="80" height="40" /> hj
 - 💡  I like to explore new technologies and develop software solutions.
 - 🛠  In my free time create new projects.
 - 🌐 I’m a Self-Learner.
